@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    padding-top: 200px;
+    margin: 0; 
+    background-color: aqua;
+}
+
+.formCookies{
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+input{
+    padding-inline: 20px;
+}
